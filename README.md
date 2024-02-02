@@ -1,2 +1,1 @@
-# sm-wallet
-Smart Wallet try
+# Smart Wallet implementation
